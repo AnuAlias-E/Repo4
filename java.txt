@@ -1,0 +1,2 @@
+Java is object oriented programming
+Java is High level lanaguage
